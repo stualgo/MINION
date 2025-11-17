@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+}
+
+
+nav a{
+    border: 3px lightblue solid; 
+    border-radius: 5px;
+    background-color:lightblue;
+    
+}
